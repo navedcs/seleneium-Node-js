@@ -11,7 +11,7 @@
     "devDependencies": {
         "chai": "^3.5.0",
         "cross-env": "^1.0.8",
-        "mocha": "^2.5.3",
+        "mocha": "^10.1.0",
         "selenium-webdriver": "^2.53.3"
     }
 }
